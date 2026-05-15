@@ -50,7 +50,7 @@ for index, row in df.iterrows():
         # Set Footer
         add_footer(row["Topic"])
 
-pdf.output("test_output.pdf")
+pdf.output("basic_template.pdf")
 
 
 
