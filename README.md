@@ -52,7 +52,7 @@ Physics,4
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/agrim-joshi/pdf_template_generator.git
 ```
 
 Install dependencies:
