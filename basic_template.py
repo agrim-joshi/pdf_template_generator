@@ -11,7 +11,7 @@ def add_footer(topic):
     pdf.cell(
         w=0,
         h=10,
-        text=topic,
+        text=f"{topic} | Page {pdf.page_no()}",
         align="R"
     )
 
